@@ -1,0 +1,30 @@
+.container {
+    display: grid;
+    text-align: center;
+    border: 2px solid #176B87;
+    border-radius: 12px;
+    padding: 5px;
+    width: 50%;
+    height: auto;
+    background-color: #64CCC5;
+    color: #001C30;
+    
+   }
+
+   body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0; /* Optional: Add a background color to the page */
+  }
+  button {
+    margin-left: 10px;
+  }
+
+  input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
